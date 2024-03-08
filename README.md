@@ -10,9 +10,10 @@ Operator: Represents the mathematical operation to be performed. It could be one
 * Subtraction (-)
 * Multiplication (*)
 * Division (/)
-Operand 1: The first operand of the operation. It can be any numeric value (integer or floating-point).
 
-Operand 2: The second operand of the operation. Similar to the first operand, it can be any numeric value
+* Operand 1: The first operand of the operation. It can be any numeric value (integer or floating-point).
+
+* Operand 2: The second operand of the operation. Similar to the first operand, it can be any numeric value
 ---------------------------------------------------------------------
 ## Simple Communication Example (TCP Communication)
 This Java code establishes a simple TCP communication between a client and a server. The client sends messages to the server, which in turn displays them. The communication continues until the client sends the message "stop". 
