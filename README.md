@@ -6,7 +6,7 @@
 calculation problem to the server as a text. The server parses the input text, converts it to a 
 mathematical operation, calculates the result and returns the final result to the client. 
 
-## Message Design
+# Message Design
 The message format consists of three components separated by a delimiter, typically a colon (:):
 
 Operator: Represents the mathematical operation to be performed. It could be one of the following:
