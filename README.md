@@ -25,5 +25,4 @@ This Java code establishes a simple TCP communication between a client and a ser
 ## Notes
 - Ensure the server is running before starting the client.
 - The server will keep running until it receives the "stop" message from the client or encounters an error.
-- This code serves as a basic framework for understanding TCP socket communication in Java and can be extended for more complex applications
 
