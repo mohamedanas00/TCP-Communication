@@ -1,6 +1,11 @@
 ## TCP Communication for Mathematical Operations
 
-Provides examples of TCP communication between a client and a server for performing mathematical operations. It includes both single-threaded and multi-threaded server implementations to handle client requests concurrently.
+* Provides examples of TCP communication between a client and a server for performing mathematical operations. It includes both single-threaded and multi-threaded server implementations to handle client requests concurrently.
+
+* A client Server application that uses sockets for communication. The client sends a simple 
+calculation problem to the server as a text. The server parses the input text, converts it to a 
+mathematical operation, calculates the result and returns the final result to the client. 
+
 ## Message Design
 The message format consists of three components separated by a delimiter, typically a colon (:):
 
